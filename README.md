@@ -462,7 +462,7 @@ This project was developed to practice:
 # 👨‍💻 Author
 
 **Harsha Vardhan Basati**
-
+**Resolence(Intern)**
 B.Tech Computer Science & Engineering
 
 ---
